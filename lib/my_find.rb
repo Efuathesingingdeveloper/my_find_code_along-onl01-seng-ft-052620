@@ -5,6 +5,6 @@ def my_find(collection)
   
    while index < collection.length
    
-index
+index +
  end
 end
