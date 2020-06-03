@@ -1,5 +1,5 @@
 require 'pry'
 
 def my_find(collection)
-  index =
+  index = 0
 end
